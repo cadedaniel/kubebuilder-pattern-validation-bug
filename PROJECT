@@ -1,0 +1,7 @@
+version: "2"
+domain: example.com
+repo: _/Users/cdnamz/dev/kubebuilder-bug
+resources:
+- group: ship
+  version: v1beta1
+  kind: Frigate
